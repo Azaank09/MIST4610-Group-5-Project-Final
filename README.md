@@ -3,7 +3,7 @@
 1. Zhen, Christina - 811674601 - https://github.com/cz67968/MIST4610-Group-5-Project-1
 2. Snow, Luke -  811958066 -  https://github.com/lrs84323/MIST4610_GroupProject_5
 3. Arfath, Rushil - 811460339 - https://github.com/R1Arafath/Group-5-Project-1-Final
-4. Khan, Azaan - 811686335 - https://github.com/Azaank09/group-project/tree/main
+4. Khan, Azaan - 811686335 - https://github.com/Azaank09/MIST4610-Group-5-Project-Final
 5. Fontoura, Gabriel - 811794390 - https://github.com/gof98446/GroupProject5/blob/main/README.md
 
 # Problem Description:
